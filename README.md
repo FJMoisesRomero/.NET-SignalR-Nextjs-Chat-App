@@ -66,5 +66,5 @@ GitHub: FJMoisesRomero
 ![capture](images/2.png)
 ![capture](images/3.png)
 ![capture](images/5.png)
-![capture](images/6.png)
+![capture](images/6.png) 
 ![capture](images/4.png)
