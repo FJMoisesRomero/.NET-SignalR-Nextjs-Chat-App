@@ -60,3 +60,11 @@ GitHub: FJMoisesRomero
 
 # Demo Video
 [![Watch the demo video](https://img.youtube.com/vi/1MAGtbeMDmE/maxresdefault.jpg)](https://www.youtube.com/watch?v=1MAGtbeMDmE&ab_channel=francomoises)
+
+## Images 📸
+![capture](images/1.png)
+![capture](images/2.png)
+![capture](images/3.png)
+![capture](images/5.png)
+![capture](images/6.png)
+![capture](images/4.png)
